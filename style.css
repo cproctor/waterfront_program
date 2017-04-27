@@ -1,0 +1,11 @@
+body {
+    font-family: Helvetica;
+}
+svg {
+    width: 1400px;
+    height: 800px;
+}
+path {
+    stroke: rgb(33,249,213);
+    fill: rgb(33,249,213);
+}
